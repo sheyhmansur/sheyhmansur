@@ -1,5 +1,5 @@
 # Приветствую вас на своем Github :)
-## Стек технологии и инструментов которые я использую
+## Стек технологий и инструментов которые я использую
 <!--
 **sheyhmansur/sheyhmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
