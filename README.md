@@ -6,6 +6,10 @@
 ![REACT](https://img.shields.io/badge/-REACT-323330?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-323330?style=for-the-badge&logo=typescript)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
+
+
+
 
 
 
