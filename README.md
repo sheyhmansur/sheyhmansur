@@ -10,6 +10,12 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+![ESLINT](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=eslint)
+![PRETTIER](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier)
+![REACT ROUTER](https://img.shields.io/badge/-REACT-ROUTER-090909?style=for-the-badge&logo=reactrouter)
+
+
+
 
 
 
