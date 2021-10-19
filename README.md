@@ -7,6 +7,12 @@
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-323330?style=for-the-badge&logo=typescript)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+
+
+
 
 
 
