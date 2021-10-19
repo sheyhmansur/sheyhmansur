@@ -2,10 +2,10 @@
 ## Стек технологий и инструменты
 
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-323330?style=for-the-badge&logo=javascript)
-![REACT](https://img.shields.io/badge/-REACT-323330?style=for-the-badge&logo=react)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
+![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-323330?style=for-the-badge&logo=typescript)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=typescript)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
