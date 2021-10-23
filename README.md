@@ -23,9 +23,10 @@
  
 - Интерактивный квиз на js - [Код](https://github.com/sheyhmansur/quiz) | [Демо](https://sheyhmansur.github.io/quiz/)
 
+- Проект "Irvas" на js - [Код](https://github.com/sheyhmansur/irvas-js) | [Демо](https://sheyhmansur.github.io/irvas-js/)
+
 - Todolist на  js - [Код](https://github.com/sheyhmansur/todo-js) | [Демо](https://sheyhmansur.github.io/todo-js/)
 
-- Проект "Irvas" на js - [Код](https://github.com/sheyhmansur/irvas-js) | [Демо](https://sheyhmansur.github.io/irvas-js/)
 
 ### Верстка:
 - Лендинг "Ремонт под ключ" - [Код](https://github.com/sheyhmansur/safort) | [Демо](https://sheyhmansur.github.io/safort/)
