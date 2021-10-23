@@ -20,7 +20,7 @@
 - Интернет магазин пицц на React/Redux - [Код](https://github.com/sheyhmansur/la-pizza) | [Демо](https://react-lapizza.herokuapp.com/)
 
 - SPA Приложение на MVC - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/)
-- 
+ 
 - Интерактивный квиз на js - [Код](https://github.com/sheyhmansur/quiz) | [Демо](https://sheyhmansur.github.io/quiz/)
 
 - Todolist на  js - [Код](https://github.com/sheyhmansur/todo-js) | [Демо](https://sheyhmansur.github.io/todo-js/)
