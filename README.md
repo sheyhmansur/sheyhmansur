@@ -15,7 +15,15 @@
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
 
 ## Мои проекты:
-- Интернет магазин кроссовок на React.js - [Код](https://github.com/sheyhmansur/sneakers-store) | [Демо](https://sneakers-store-eta.vercel.app/)
+- Интернет магазин кроссовок на React - [Код](https://github.com/sheyhmansur/sneakers-store) | [Демо](https://sneakers-store-eta.vercel.app/)
+- Интернет магазин пицц на React/Redux - [Код](https://github.com/sheyhmansur/la-pizza) | [Демо](https://react-lapizza.herokuapp.com/)
+- Интерактивный квиз на js - [Код](https://github.com/sheyhmansur/quiz) | [Демо](https://sheyhmansur.github.io/quiz/)
+- Todolist на  js - [Код](https://github.com/sheyhmansur/todo-js) | [Демо](https://sheyhmansur.github.io/todo-js/)
+- SPA Приложение на MVC - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/)
+
+### Верстка:
+- Лендинг - [Код](https://github.com/sheyhmansur/safort) | [Демо](https://sheyhmansur.github.io/safort/)
+
 
 
 
