@@ -12,7 +12,9 @@
 ![ESLINT](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=eslint)
 ![PRETTIER](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier)
 ![REACT ROUTER](https://img.shields.io/badge/-router-090909?style=for-the-badge&logo=router)
-![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gul)
+![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
+![REACT ROUTER](https://img.shields.io/badge/-router-090909?style=for-the-badge&logo=router)
+
 
 
 
