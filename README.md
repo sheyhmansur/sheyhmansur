@@ -1,6 +1,5 @@
 # Приветствую вас на своем Github :)
 ## Стек технологий и инструменты 
-## Мои проекты:
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
@@ -15,7 +14,8 @@
 ![PRETTIER](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
 
-
+## Мои проекты:
+- Интернет магазин кроссовок на React.js - [Код](https://github.com/sheyhmansur/sneakers-store) | [Демо](https://sneakers-store-eta.vercel.app/)
 
 
 
