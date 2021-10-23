@@ -20,6 +20,7 @@
 - Интерактивный квиз на js - [Код](https://github.com/sheyhmansur/quiz) | [Демо](https://sheyhmansur.github.io/quiz/)
 - Todolist на  js - [Код](https://github.com/sheyhmansur/todo-js) | [Демо](https://sheyhmansur.github.io/todo-js/)
 - SPA Приложение на MVC - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/)
+- Проект "Irvas" на js - [Код](https://github.com/sheyhmansur/irvas-js) | [Демо](https://sheyhmansur.github.io/irvas-js/)
 
 ### Верстка:
 - Лендинг "Ремонт под ключ" - [Код](https://github.com/sheyhmansur/safort) | [Демо](https://sheyhmansur.github.io/safort/)
