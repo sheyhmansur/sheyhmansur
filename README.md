@@ -22,7 +22,11 @@
 - SPA Приложение на MVC - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/)
 
 ### Верстка:
-- Лендинг - [Код](https://github.com/sheyhmansur/safort) | [Демо](https://sheyhmansur.github.io/safort/)
+- Лендинг "Ремонт под ключ" - [Код](https://github.com/sheyhmansur/safort) | [Демо](https://sheyhmansur.github.io/safort/)
+- Лендинг "Digital маркетинг" - [Код](https://github.com/sheyhmansur/digital) | [Демо](https://sheyhmansur.github.io/digital/)
+- Многостраничная верстка "Компании ЛЕО" - [Код](https://github.com/sheyhmansur/cleaning) | [Демо](https://sheyhmansur.github.io/cleaning/)
+
+
 
 
 
