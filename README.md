@@ -14,6 +14,8 @@
 ![PRETTIER](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
 ![GULP](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack)
+![GULP](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack)
+
 
 ## Мои проекты:
 - Интернет магазин кроссовок на React - [Код](https://github.com/sheyhmansur/sneakers-store) | [Демо](https://sneakers-store-eta.vercel.app/)
