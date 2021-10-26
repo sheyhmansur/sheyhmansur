@@ -19,15 +19,15 @@
 ## Мои проекты:
 - Интернет магазин кроссовок на React - [Код](https://github.com/sheyhmansur/sneakers-store) | [Демо](https://sneakers-store-eta.vercel.app/)
  
-- Интернет магазин пицц на React/Redux - [Код](https://github.com/sheyhmansur/la-pizza) | [Демо](https://react-lapizza.herokuapp.com/)
+- Приложение по заказу пицц на React/Redux - [Код](https://github.com/sheyhmansur/la-pizza) | [Демо](https://react-lapizza.herokuapp.com/)
 
-- SPA Приложение на MVC - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/)
+- Интернет магазин недвижимости SPA на JS  - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/)
  
-- Интерактивный квиз на js - [Код](https://github.com/sheyhmansur/quiz) | [Демо](https://sheyhmansur.github.io/quiz/)
+- Интерактивный квиз на JS - [Код](https://github.com/sheyhmansur/quiz) | [Демо](https://sheyhmansur.github.io/quiz/)
 
-- Проект "Irvas" на js - [Код](https://github.com/sheyhmansur/irvas-js) | [Демо](https://sheyhmansur.github.io/irvas-js/)
+- Одностраничный сайт на js - [Код](https://github.com/sheyhmansur/irvas-js) | [Демо](https://sheyhmansur.github.io/irvas-js/)
 
-- Todolist на  js - [Код](https://github.com/sheyhmansur/todo-js) | [Демо](https://sheyhmansur.github.io/todo-js/)
+- Todolist на JS - [Код](https://github.com/sheyhmansur/todo-js) | [Демо](https://sheyhmansur.github.io/todo-js/)
 
 
 ### Верстка:
