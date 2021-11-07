@@ -35,7 +35,8 @@
 
 - Лендинг "Digital маркетинг" - [Код](https://github.com/sheyhmansur/digital) | [Демо](https://sheyhmansur.github.io/digital/)
 
-- Многостраничная верстка "Компании ЛЕО" - [Код](https://github.com/sheyhmansur/cleaning) | [Демо](https://sheyhmansur.github.io/cleaning/)
+- Многостраничная верстка сайта - 
+ "Компаниия ЛЕО" - [Код](https://github.com/sheyhmansur/cleaning) | [Демо](https://sheyhmansur.github.io/cleaning/)
 
 
 
