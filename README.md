@@ -1,5 +1,5 @@
 # Приветствую вас на своем Github :)
-## Стек технологий и инструменты 
+
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
