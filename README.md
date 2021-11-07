@@ -13,7 +13,7 @@
 ![ESLINT](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=eslint)
 ![PRETTIER](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
-![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
+![https://www.youtube.com/](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
 
 
 
