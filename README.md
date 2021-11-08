@@ -40,7 +40,7 @@
 
 ### Связаться со мной:
 
-[![telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram)](https://www.youtube.com/)
+[![telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram)](https://web.telegram.org/z/)
 
 
 
