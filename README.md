@@ -39,7 +39,8 @@
 - Многостраничный сайт "ЛЕО" - [Код](https://github.com/sheyhmansur/cleaning) | [Демо](https://sheyhmansur.github.io/cleaning/)
 
 ### Связаться со мной:
-[](https://hexlet.io)
+
+[![youtube](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.youtube.com/)
 
 
 
