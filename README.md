@@ -40,7 +40,7 @@
 
 ### Связаться со мной:
 
-[![telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/dz_sheyhmansur)
+[![telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/d_mansur)
 [![whatsapp](https://img.shields.io/badge/whatsapp-48bd56?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](Wa.me/)
 [![instagram](https://img.shields.io/badge/instagram-9f3a55?style=for-the-badge&logo=instagram)](https://www.instagram.com/_sheyhmansur_/)
 
