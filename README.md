@@ -14,6 +14,7 @@
 ![ESLINT](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=eslint)
 ![PRETTIER](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
+![HEROKU](https://img.shields.io/badge/-HEROKU-090909?style=for-the-badge&logo=heroku)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
 
 
