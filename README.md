@@ -2,19 +2,19 @@
 
 ## Мои навыки
 
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-323330?style=for-the-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![REACT ROUTER](https://img.shields.io/badge/-react--router-090909?style=for-the-badge&logo=react-router)
-![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-50307f?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
 ![ESLINT](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=eslint)
 ![PRETTIER](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
-![HEROKU](https://img.shields.io/badge/-HEROKU-090909?style=for-the-badge&logo=heroku)
+![HEROKU](https://img.shields.io/badge/-HEROKU-362eab?style=for-the-badge&logo=heroku)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
 
 
