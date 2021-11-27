@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/-SASS-cc5691?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-50307f?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+![GIT](https://img.shields.io/badge/-GIT-f34f29?style=for-the-badge&logo=git&logoColor=ffffff)
 ![ESLINT](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=eslint)
 ![PRETTIER](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
