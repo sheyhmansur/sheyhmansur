@@ -28,7 +28,7 @@
  
 - Интерактивный квиз на JS - [Код](https://github.com/sheyhmansur/quiz) | [Демо](https://sheyhmansur.github.io/quiz/)
 
-- Одностраничный сайт на JS - [Код](https://github.com/sheyhmansur/irvas-js) | [Демо](https://sheyhmansur.github.io/irvas-js/)
+- Cайт "Ирвас-окна" на JS - [Код](https://github.com/sheyhmansur/irvas-js) | [Демо](https://sheyhmansur.github.io/irvas-js/)
 
 - Todolist на JS - [Код](https://github.com/sheyhmansur/todo-js) | [Демо](https://sheyhmansur.github.io/todo-js/)
 
