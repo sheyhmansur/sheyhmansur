@@ -33,12 +33,17 @@
 - Todolist на JS - [Код](https://github.com/sheyhmansur/todo-js) | [Демо](https://sheyhmansur.github.io/todo-js/)
 
 
+
+
 ### Верстка:
 - Лендинг "Ремонт под ключ" - [Код](https://github.com/sheyhmansur/safort) | [Демо](https://sheyhmansur.github.io/safort/)
 
 - Лендинг "Digital маркетинг" - [Код](https://github.com/sheyhmansur/digital) | [Демо](https://sheyhmansur.github.io/digital/)
 
 - Многостраничный сайт "ЛЕО" - [Код](https://github.com/sheyhmansur/cleaning) | [Демо](https://sheyhmansur.github.io/cleaning/)
+
+### Тестовые задания которые выполнил: 
+
 
 ### Связаться со мной:
 
