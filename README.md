@@ -21,7 +21,9 @@
 
 ## Мои проекты:
 - Интернет магазин кроссовок на React - [Код](https://github.com/sheyhmansur/sneakers-store) | [Демо](https://sneakers-store-eta.vercel.app/)
- 
+
+- Проект "Флаги стран" на React - [Код](https://github.com/sheyhmansur/countries-flags-spa) | [Демо](https://countries-flags-phi.vercel.app/)
+
 - Приложение по заказу пицц на React/Redux - [Код](https://github.com/sheyhmansur/la-pizza) | [Демо](https://react-lapizza.herokuapp.com/)
 
 - Интернет магазин недвижимости SPA на JS  - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/)
