@@ -13,6 +13,7 @@
 ![GIT](https://img.shields.io/badge/-GIT-f34f29?style=for-the-badge&logo=git&logoColor=ffffff)
 ![ESLINT](https://img.shields.io/badge/-ESLINT-3a33d1?style=for-the-badge&logo=eslint&logoColor=ffffff)
 ![PRETTIER](https://img.shields.io/badge/-Prettier-172a36?style=for-the-badge&logo=prettier)
+![WEBPACK](https://img.shields.io/badge/-WEBPACK-172a36?style=for-the-badge&logo=webpack)
 ![GULP](https://img.shields.io/badge/-GULP-d34a47?style=for-the-badge&logo=gulp&logoColor=ffffff)
 ![HEROKU](https://img.shields.io/badge/-HEROKU-362eab?style=for-the-badge&logo=heroku)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-191e21?style=for-the-badge&logo=figma)
