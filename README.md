@@ -21,7 +21,7 @@
 
 
 ## Мои проекты:
-- Интернет магазин кроссовок на React - [Код](https://github.com/sheyhmansur/sneakers-store) | [Демо](https://sneakers-store-eta.vercel.app/)
+- Интернет магазин кроссовок на React - [Код](https://github.com/sheyhmansur/sneakers-store) | [Демо](https://sneakers-store-orcin.vercel.app/)
 
 - SPA-проект "Флаги стран" на React - [Код](https://github.com/sheyhmansur/countries-flags-spa) | [Демо](https://countries-flags-phi.vercel.app/)
 
