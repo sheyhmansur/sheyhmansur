@@ -44,7 +44,7 @@
 
 ### Тестовые задания которые выполнил: 
 - Форма на React.js - [Код](https://github.com/sheyhmansur/form-react.js) | [Демо](https://form-react-js.vercel.app/)
-- TastyCookery - [Код](https://github.com/sheyhmansur/tastycooker) | [Демо](https://sheyhmansur.github.io/tastycookery-test/)
+- Лендинг - TastyCookery - [Код](https://github.com/sheyhmansur/tastycooker) | [Демо](https://sheyhmansur.github.io/tastycookery-test/)
 - Circeya - [Код](https://github.com/sheyhmansur/Circeya-test) | [Демо](https://sheyhmansur.github.io/circeya-test2/)
 
 ### Связаться со мной:
