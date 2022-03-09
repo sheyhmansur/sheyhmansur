@@ -24,7 +24,7 @@
 
 - SPA-проект "Флаги стран" на React - [Код](https://github.com/sheyhmansur/countries-flags-spa) | [Демо](https://countries-flags-phi.vercel.app/)
 
-- Интернет магазин недвижимости SPA на JS  - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/)
+<!-- - Интернет магазин недвижимости SPA на JS  - [Код](https://github.com/sheyhmansur/real-estate) | [Демо](http://cw40939.tmweb.ru/) -->
  
 - Интерактивный квиз на JS - [Код](https://github.com/sheyhmansur/quiz) | [Демо](https://sheyhmansur.github.io/quiz/)
 
