@@ -40,7 +40,7 @@
 
 - Лендинг "Digital маркетинг" - [Код](https://github.com/sheyhmansur/digital) | [Демо](https://sheyhmansur.github.io/digital/)
 
-- Многостраничный сайт "ЛЕО" - [Код](https://github.com/sheyhmansur/cleaning) | [Демо](https://sheyhmansur.github.io/cleaning/)
+- Корпоративный сайт "ЛЕО" - [Код](https://github.com/sheyhmansur/cleaning) | [Демо](https://sheyhmansur.github.io/cleaning/)
 
 ### Тестовые задания которые выполнил: 
 - Форма на React.js - [Код](https://github.com/sheyhmansur/form-react.js) | [Демо](https://form-react-js.vercel.app/)
